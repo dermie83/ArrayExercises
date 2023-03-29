@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class PrimitiveArrays {
 
     private static Scanner input = new Scanner (System.in);
